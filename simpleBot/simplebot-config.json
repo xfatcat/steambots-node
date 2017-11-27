@@ -1,0 +1,5 @@
+{
+	"username":"ваш логин",
+	"password":"ваш пароль",
+	"sharedSecret":"ваш sharedSecret код из SDA",
+}
