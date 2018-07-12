@@ -1,0 +1,6 @@
+{
+    "username":"пример файла настроек",
+	"password":"quit_after 1 завершает работу когда фарм окончен",
+    "sharedSecret":"quit_after 0 меняет статус бота на "спит" ",
+    "quit_after":"0"
+}
